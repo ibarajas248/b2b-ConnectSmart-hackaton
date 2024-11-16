@@ -18,7 +18,7 @@ def mostrar_estadisticas():
     json_url = "https://www.datos.gov.co/resource/p6dx-8zbt.json"
 
     # Input para la búsqueda en el campo 'codigo_principal_de_categoria'
-    search_category = st.text_input("Ingrese el código de la categoría (e.g., V1.81101500) para filtrar:")
+    search_category = st.text_input("Ingrese el código UNSPSC de la categoría (ejemplo, V1.81101500) para filtrar:")
 
     # Función para obtener los datos de la API y filtrar por codigo_principal_de_categoria
     @st.cache_data
