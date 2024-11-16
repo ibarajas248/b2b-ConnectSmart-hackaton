@@ -5,7 +5,11 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
+
 def mostrar_estadisticas():
+    image_url = "https://bidig.areandina.edu.co/wp-content/uploads/2023/08/nature-11.png"
+    st.image(image_url, caption='', use_container_width=False, width=300)  # Ajustar el tamaño de la imagen
+
     # Título de la aplicación
     st.title("Análisis de Compañías - Ganancias, Pérdidas y Solvencia")
 
