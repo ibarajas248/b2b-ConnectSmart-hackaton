@@ -32,12 +32,12 @@
     &quot;assignee&quot;: &quot;ibarajas248&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ibarajas248/b2bhackaton.git",
-    "accountId": "353b1a11-606d-42c1-b4d8-971b9ce402db"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ibarajas248/b2bhackaton.git&quot;,
+    &quot;accountId&quot;: &quot;353b1a11-606d-42c1-b4d8-971b9ce402db&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
